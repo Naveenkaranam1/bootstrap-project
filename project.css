@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.Border{
+    min-height: 40px;
+    border: 2px solid grey;
+    border-radius: 10px;
+}
+
+header img{
+    height: 60px;
+}
+
+.carousal{
+    height: 600px;
+    border-radius: 20px;
+}
+
+.content-image{
+    height: 250px;
+    border-radius: 20px;
+}
+
+.content-box{
+    border: 2px solid grey;
+    border-radius: 20px;
+}
+
+.content-box:hover{
+    background-color: bisque;
+}
+
+.container1{
+    background-color: aliceblue;
+}
